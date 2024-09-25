@@ -1,1 +1,5 @@
---platform=linux/arm64 nginx
+#--platform=linux/arm64 nginx
+--platform=linux/arm64 bellsoft/liberica-openjdk-debian:17.0.11-cds
+--platform=linux/arm64 drone/drone:2
+--platform=linux/arm64 drone/drone-runner-docker:1
+--platform=linux/arm64 gitlab/gitlab-ce:17.4.0-ce.0
