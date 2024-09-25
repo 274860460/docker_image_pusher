@@ -1,4 +1,4 @@
 drone/drone:2
 drone/drone-runner-docker:1
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64/v8 xiaoyaliu/alist
