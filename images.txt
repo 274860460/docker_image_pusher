@@ -4,4 +4,5 @@
 #--platform=linux/arm64 drone/drone-runner-docker:1
 #gitlab/gitlab-ce:17.4.0-ce.0
 #maven:3.9.9-eclipse-temurin-17-focal
-alpine
+#alpine
+--platform=linux/arm64 drone/drone-runner-docker:1.8
