@@ -12,5 +12,5 @@
 #--platform=linux/arm64 ubuntu
 #--platform=linux/arm64 gitlab/gitlab-runner
 #--platform=linux/arm64 ruby:2.7
-maven:3-openjdk-17
-
+#maven:3-openjdk-17
+--platform=linux/arm64 docker:cli
