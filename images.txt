@@ -10,4 +10,5 @@
 #--platform=linux/arm64 drone/drone-runner-docker:1.8.3
 #--platform=linux/arm64 drone/drone-runner-docker
 #--platform=linux/arm64 ubuntu
---platform=linux/arm64 gitlab/gitlab-runner
+#--platform=linux/arm64 gitlab/gitlab-runner
+--platform=linux/arm64 ruby:2.7
