@@ -11,4 +11,5 @@
 #--platform=linux/arm64 drone/drone-runner-docker
 #--platform=linux/arm64 ubuntu
 #--platform=linux/arm64 gitlab/gitlab-runner
---platform=linux/arm64 ruby:2.7
+#--platform=linux/arm64 ruby:2.7
+--platform=linux/arm64 maven:3-openjdk-17
