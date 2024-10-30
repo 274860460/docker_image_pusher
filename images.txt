@@ -19,4 +19,5 @@
 #drone/drone-runner-ssh
 #drone/drone:2
 #golang:1.22
-kylemanna/openvpn
+#kylemanna/openvpn
+--platform=linux/arm64 mysql:5.7
