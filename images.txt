@@ -21,4 +21,5 @@
 #golang:1.22
 #kylemanna/openvpn
 #--platform=linux/arm64 mysql:5.7
-linuxserver/qbittorrent
+#linuxserver/qbittorrent
+--platform=linux/arm64 2.528.2-lts-jdk21 
