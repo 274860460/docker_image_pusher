@@ -22,4 +22,4 @@
 #kylemanna/openvpn
 #--platform=linux/arm64 mysql:5.7
 #linuxserver/qbittorrent
---platform=linux/arm64 2.528.2-lts-jdk21 
+--platform=linux/arm64 jenkins/jenkins:2.528.2-lts-jdk21
